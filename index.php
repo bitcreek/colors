@@ -41,7 +41,7 @@ foreach ($jsonIterator as $key => $val) {
 
 ?>
 <footer>
-	 bitcreek.github.io | Made with &#10084;
+	 <a href="https://bitcreek.github.io">bitcreek</a> | made with &#10084;
 </footer>
 </body>
 </html>
